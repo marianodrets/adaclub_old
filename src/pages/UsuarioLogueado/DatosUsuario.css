@@ -1,0 +1,10 @@
+@media all and (min-width: 480px) {
+  .DatosUsuario {
+    padding: 60px 0;
+  }
+
+  .DatosUsuario form {
+    margin: 0 auto;
+    max-width: 900px;
+  }
+}

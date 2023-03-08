@@ -1,0 +1,26 @@
+
+.reciboitems table {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    background-image: linear-gradient(to left,  #b3c1db,white);
+}
+
+.reciboitems td, th {
+    border: 2px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+.fondoCelda {
+    background-color: #ffe6e6;
+    font-weight: bold;
+}
+
+#reciboborde{
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 5px;
+}

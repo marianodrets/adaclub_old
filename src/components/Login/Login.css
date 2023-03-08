@@ -1,0 +1,14 @@
+@media all and (min-width: 680px) {
+  .Login {
+    padding: 60px 0;
+  }
+
+  .Login form {
+    margin: 0 auto;
+    max-width: 820px;
+  }
+
+  .logoProfeapp {
+    background-color: #28A745
+  }
+}

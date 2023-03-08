@@ -1,0 +1,94 @@
+
+.TituloOpc {
+    color : black;
+    font-size: "22px";
+    font-weight: "bold";
+} 
+
+.Grilla-header {
+    color: white;
+    background-color: #343A40;
+}
+
+.Grilla-header-danger {
+    color: white;
+    background-color: #DC3545;
+}
+
+.Grilla-header-success {
+    color: white;
+    background-color: #28A745;
+}
+
+.Grilla-header-warning {
+    color: white;
+    background-color: #ffc107;
+}
+
+.Grilla-header-primary {
+    color: white;
+    background-color: #0066ff;
+}
+.modal-90 {
+    width: 95vw;
+    max-width: 95vw;
+} 
+
+.modal-60 {
+    width: 65vw;
+    max-width: 65vw;
+} 
+
+.modal-40 {
+    display: flex;
+    width: 40vw;
+    max-width: 40vw;
+    top: 15vh;
+    right: 5vw;
+} 
+
+.fondo-secondary {
+    color: white;
+    background-color: #b3b3b3;
+    margin: 0;
+    padding: 0;
+}
+
+.detailsAbmRespuestas {
+    height:  52vh; 
+    width: calc(100% - 10px);  /* el ancho menos los paddings */
+    overflow: auto; /* que aparezca la barra */
+}
+
+.barra_v_modal {
+    height:  55vh;
+    width: 100%;
+    overflow-y: auto; /* que aparezca la barra */
+    padding: 0;
+    margin: 0;
+    margin-right: 0;
+    padding-right: 0;
+}
+
+.borde_solido {
+    border: 1px solid #000;
+}   
+
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: black;
+    font-weight: bold;
+    background-color: #fff;
+    border-color: none;
+}
+
+.nav-tabs {
+    background-color: rgb(202, 195, 195);
+    border-bottom: none;
+}
+
+.nav-tabs .nav-link:hover{
+    font-weight: bold;
+    color: rgb(82, 81, 81)
+}
+

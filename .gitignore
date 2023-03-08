@@ -1,0 +1,8 @@
+#dependences
+/node_modules
+
+#production
+/build
+/.vscode/settings.json
+/.vscode
+
